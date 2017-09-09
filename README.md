@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## Alex Testin
+### Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/atestin94/CS4830Challenge2/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
